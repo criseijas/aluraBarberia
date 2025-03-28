@@ -1,28 +1,22 @@
-Barbería Alura 🌐
-Descripción:
-Este es un sitio web diseñado con HTML y CSS totalmente responsivo, adaptándose a diferentes dispositivos y tamaños de pantalla. Utiliza buenas prácticas de maquetación, diseño flexible con media queries y una estructura semántica para mejorar la accesibilidad y la experiencia del usuario.
+# 🌐 Barbería Alura
 
-🚀 Características
-✅ Diseño adaptable (responsive design)
-✅ Código estructurado y semántico
-✅ Uso de Flexbox/Grid para la disposición de elementos
-✅ Compatibilidad con los principales navegadores
+![Vista previa](URL_DE_LA_IMAGEN_O_GIF)  
 
-📷 Vista previa
-(Adjunta una imagen o un enlace a la demo del sitio)
+Este proyecto es un sitio web desarrollado con **HTML5 y CSS3** con un diseño **100% responsivo** que se adapta a distintos dispositivos y tamaños de pantalla. Se han aplicado **buenas prácticas de maquetación y accesibilidad** para garantizar una excelente experiencia de usuario.
 
-🛠️ Tecnologías utilizadas
-HTML5
-CSS (Media Queries)
+## 🚀 Tecnologías utilizadas  
+- **HTML5** → Estructura semántica  
+- **CSS3** → Estilos y diseño responsivo  
+- **Media Queries** → Adaptabilidad a diferentes dispositivos  
 
-📂 Instalación y uso
-Clona el repositorio:
+## 🎨 Características  
+✅ Diseño completamente adaptable (responsive)  
+✅ Código limpio y estructurado  
+✅ Compatibilidad con los principales navegadores  
+✅ Optimización para accesibilidad y SEO  
 
-bash
-Copiar
-Editar
-git clone https://github.com/tuusuario/nombre-del-repositorio.git
-Abre el archivo index.html en tu navegador
+## 📂 Instalación y uso  
+1. **Clonar el repositorio**  
+   ```bash
+   git clone https://github.com/tuusuario/nombre-del-repositorio.git
 
-📌 Autor
-Creado por Seijas Cristina
